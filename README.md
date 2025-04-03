@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![iP4uL0's Stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+![iP4uL0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iP4uL0&theme=vue-dark&hide_border=true)

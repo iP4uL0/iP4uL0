@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![iP4uL0's Stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-![iP4uL0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iP4uL0&theme=vue-dark&hide_border=true)
+![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

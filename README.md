@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 ## 📫 Contatos
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulobapsantos@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iP4uL0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
+
 
 
 ### 📊 GitHub Stats

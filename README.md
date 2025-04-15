@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
 - Aprendendo **Mobile** para complementar minhas habilidades no **front-end**.
 
--17 anos👍🏿.
+  - 17 anos👍🏿.
 
--Meu hobby é ter 120h de overwatch.
+  - Meu hobby é ter 120h de overwatch.
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 

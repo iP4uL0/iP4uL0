@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 17 anos👍🏿.
 
-- Meu hobby é ter 120h de overwatch.
+- They're listening.
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 

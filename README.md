@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iusername=iP4uL0)](https://github.com/anuraghazra/github-readme-stats) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![iP4uL0's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0)](https://github.com/anuraghazra/github-readme-stats) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake-dark.svg">

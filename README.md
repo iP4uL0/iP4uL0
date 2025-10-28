@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 17 anos👍🏿.
 
-- They're listening.
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 

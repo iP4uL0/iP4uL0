@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybers
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,tailwind,npm)](https://skillicons.dev)
-- Dados: 
+- Banco de Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 

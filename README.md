@@ -1,60 +1,38 @@
-## Olá ;)👋
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif alt= "gif legal">
+</div>
 
-<!--
-**iP4uL0/iP4uL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Paulo Santos
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Olá!
 
-## 👨‍💻 Sobre Mim
-- Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2/2).
-- Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
-- Aprendendo **Mobile** para complementar minhas habilidades no **front-end**.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybersegurança. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
-- 17 anos👍🏿.
+## 🚀 Habilidades Técnicas
 
+- Linguagens de Programação: 
 
-<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
 
-## 💻 Linguagens & Frameworks:  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)  
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- Dados: 
 
-## 🛠 Ferramentas & Plataformas:  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
 
-## ⚙️ Back-end & Banco de Dados:  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
 
-## 📫 Contatos
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulobapsantos@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iP4uL0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+## 🏆 Projetos Destacados
+
+- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
+- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
+- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
 
-
-### 📊 GitHub Stats
-[![iP4uL0's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
-</picture>
-
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊

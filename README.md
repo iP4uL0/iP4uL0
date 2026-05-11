@@ -42,3 +42,14 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 [![iP4uL0's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 
+
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
+
+</picture>
+

@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Afonso-blue?logo=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
 
-## 👋 Olá!
+## 👋 Seja bem-vindo ao meu perfil!
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybersegurança. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 

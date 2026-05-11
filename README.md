@@ -17,13 +17,13 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybers
     [![My Skills](https://skillicons.dev/icons?i=javascript,python,ts,cpp)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,tailwind,npm)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,supabase,netlify,figma&perline=4)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,nodejs,supabase,netlify,figma&perline=4)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)

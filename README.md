@@ -4,7 +4,7 @@
 
 # Paulo Santos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[PauloAfonso]-blue?logo=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
 
 ## 👋 Olá!
 
@@ -37,4 +37,4 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 
 
-![Paulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=merko)
+![Paulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=dark)

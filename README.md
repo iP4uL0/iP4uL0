@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybers
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=C++,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python,c++)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -34,3 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybers
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+
+
+
+![Paulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=merko)

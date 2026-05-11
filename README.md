@@ -39,10 +39,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ### 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true
-<br>
-</br>
-Top Linguagens: https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&layout=compact
+[![iP4uL0's GitHub stats](https://github-readme-stats.vercel.app/api?username=iP4uL0&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 
 

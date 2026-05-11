@@ -4,7 +4,7 @@
 
 # Paulo Santos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Afonso-blue?logo=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulo-afonso-baptista-dos-santos-90a4662a0/)
 
 ## 👋 Seja bem-vindo ao meu perfil!
 

@@ -39,8 +39,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iP4uL0&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iP4uL0&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iP4uL0&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600"/><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iP4uL0&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300"/>
 
 
 

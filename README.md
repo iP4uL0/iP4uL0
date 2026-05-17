@@ -39,7 +39,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ### 📊 GitHub Stats
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=iP4uL0)](https://github.com/pranesh-2005/github-readme-stats-fast) ![iP4uL0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iP4uL0&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=iP4uL0theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast) [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iP4uL0theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 

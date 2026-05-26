@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1235744013236043888/1244841563893530725/pinterest_161566705372241600.gif?ex=6a17014c&is=6a15afcc&hm=38b16e495d0bd8e1baffeb325637c498b9d4889db8c14b29962280dbc0556752" alt="gif legal" width="70%">
+  <img src="https://cdn.discordapp.com/attachments/1235744013236043888/1253141325013061714/a_f1f10b5a891bc694541bcdb6ae5e5af5-5B184.gif?ex=6a16e08e&is=6a158f0e&hm=5625f55d7da510133553ef857b96f4a9832e17f384fe2aa8fb200555ee2569dc" alt="gif legal" width="70%">
 </div>
 
 # Paulo Santos

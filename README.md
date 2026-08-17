@@ -30,7 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em atualmente em cybers
 
 ## 🏆 Projetos Destacados
 
-- [ProjetoQuiz](https://github.com/iP4uL0/projeto_quiz_frontend): Um projeto focado para alunos que vão fazer vestibular.
+- [ProjetoQuiz](https://preparavestbr.netlify.app/): Um projeto focado para alunos que vão fazer vestibular.
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
